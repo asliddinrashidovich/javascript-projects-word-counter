@@ -1,0 +1,1 @@
+# javascript-projects-word-counter
